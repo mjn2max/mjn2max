@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! Welcome to the Min Min (mjn2max) GitHub 👋
+
+- 🔭 I'm currently working on my project [mjn2max.com](https://mjn2max.com).
+- 🌱 I'm interested in learning Computer Science & Software Development.
+- 💬 Ask me anything about iOS development.
+- 📫 How to reach me: [https://mjn2max.github.io/](https://mjn2max.github.io/)
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: Love coding and vinahouse.
 
 <!--
 **mjn2max/mjn2max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
