@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Love coding and vinahouse.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjn2max&show_icons=true&hide_border=true&theme=dark&hide_rank=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjn2max&show_icons=true&hide_rank=true&theme=default#gh-light-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjn2max&layout=compact&langs_count=10)
 
 <!--
