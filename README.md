@@ -7,8 +7,8 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Love coding and vinahouse.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjn2max&show_icons=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjn2max&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjn2max&show_icons=true&hide_border=true&theme=dark&hide_rank=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjn2max&layout=compact&langs_count=10)
 
 <!--
 **mjn2max/mjn2max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
