@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Love coding and vinahouse.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjn2max&show_icons=true&icon_color=FF0000&hide_rank=true&theme=swift)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mjn2max&background=F6F6F6&border=EAEAEA&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mjn2max&background=F6F6F6&border=E4E2E2&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjn2max&layout=compact&theme=swift&langs_count=10)
 
 <!--
