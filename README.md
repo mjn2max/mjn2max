@@ -9,7 +9,7 @@
 
 Like My Work?
 
-<a href="https://www.buymeacoffee.com/mjn2max" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/mjn2max" target="_blank"><img width="218px" height="60px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"></a>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mjn2max&show_icons=true&icon_color=FF0000&hide_rank=true&theme=swift)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mjn2max&background=F6F6F6&border=E4E2E2&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=000000)
