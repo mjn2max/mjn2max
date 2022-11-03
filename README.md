@@ -7,6 +7,27 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: Love coding and vinahouse.
 
+### Languages:
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+// C++
+// C#
+
+### Frameworks:
+// SwiftUI
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="10%" src=""></code>
+<code><img width="10%" src=""></code>
+
+### Tools:
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
+// Android Studio
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/mjn2max" target="_blank"><img width="218px" height="60px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"></a>
