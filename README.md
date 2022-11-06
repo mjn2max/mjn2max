@@ -8,11 +8,11 @@
 - ⚡ Fun fact: Love coding and vinahouse.
 
 ### Languages:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-// C++
-// C#
+<code><img width="10%" src="/icons/swift.svg"></code>
+<code><img width="10%" src="/icons/kotlin.svg"></code>
+<code><img width="10%" src="/icons/python.svg"></code>
+<code><img width="10%" src="/icons/c++.svg"></code>
+<code><img width="10%" src="/icons/c-sharp.svg"></code>
 
 ### Frameworks:
 // SwiftUI
