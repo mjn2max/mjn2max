@@ -15,11 +15,10 @@
 <code><img width="10%" src="/icons/c-sharp.svg"></code>
 
 ### Frameworks:
-// SwiftUI
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="10%" src=""></code>
-<code><img width="10%" src=""></code>
+<code><img width="10%" src="/icons/swiftui.svg"></code>
+<code><img width="10%" src="/icons/flutter.svg"></code>
+<code><img width="10%" src="/icons/angularjs.svg"></code>
+<code><img width="10%" src="/icons/"></code> // reactjs
 
 ### Tools:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
