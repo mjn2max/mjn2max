@@ -21,11 +21,11 @@
 <code><img width="10%" src="/icons/"></code> // reactjs
 
 ### Tools:
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-icon.svg"></code>
-// Android Studio
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img width="10%" src="/icons/xcode.svg"></code>
+<code><img width="10%" src="/icons/android-studio.svg"></code>
+<code><img width="10%" src="/icons/visual-studio-code.svg"></code>
+<code><img width="10%" src="/icons/git.svg"></code>
+<code><img width="10%" src="/icons/figma.svg"></code>
 
 Like My Work?
 
