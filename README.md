@@ -27,7 +27,7 @@
 <code><img width="8%" src="/icons/figma.svg"></code>
 <code><img width="8%" src="/icons/android-studio.svg"></code>
 
-Like My Work?
+### Like My Work?
 
 <a href="https://www.buymeacoffee.com/mjn2max" target="_blank"><img width="218px" height="60px" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"></a>
 
