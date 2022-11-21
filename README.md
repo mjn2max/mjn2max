@@ -5,7 +5,7 @@
 - 💬 Ask me anything about iOS development.
 - 📫 How to reach me: [https://mjn2max.github.io/](https://mjn2max.github.io/)
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: Love coding and vinahouse.
+- ⚡ Fun fact: Love coding and music.
 
 ### Languages:
 <code><img width="8%" src="/icons/swift.svg"></code>
