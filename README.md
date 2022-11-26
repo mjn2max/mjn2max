@@ -1,7 +1,7 @@
 ### Hi there! Welcome to the Min Min (mjn2max) GitHub 👋
 
 - 🔭 I'm currently working on my project [mjn2max.com](https://mjn2max.com).
-- 🌱 I'm interested in learning Computer Science & Software Development.
+- 🌱 I'm interested in Computer Science & Software Development.
 - 💬 Ask me anything about iOS development.
 - 📫 How to reach me: [https://mjn2max.github.io/](https://mjn2max.github.io/)
 - 😄 Pronouns: he/him.
