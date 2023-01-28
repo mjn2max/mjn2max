@@ -10,22 +10,23 @@
 ### Languages:
 <code><img width="8%" src="/icons/swift.svg"></code>
 <code><img width="8%" src="/icons/kotlin.svg"></code>
+<code><img width="8%" src="/icons/java.svg"></code>
 <code><img width="8%" src="/icons/c++.svg"></code>
 <code><img width="8%" src="/icons/c-sharp.svg"></code>
-<code><img width="8%" src="/icons/python.svg"></code>
 
 ### Frameworks:
 <code><img width="8%" src="/icons/swiftui.svg"></code>
-<code><img width="8%" src="/icons/flutter.svg"></code>
 <code><img width="8%" src="/icons/angularjs.svg"></code>
+<code><img width="8%" src="/icons/spring-boot.svg"></code>
+<code><img width="8%" src="/icons/flutter.svg"></code>
 <code><img width="8%" src="/icons/react.svg"></code>
 
 ### Tools:
 <code><img width="8%" src="/icons/xcode.svg"></code>
 <code><img width="8%" src="/icons/visual-studio-code.svg"></code>
+<code><img width="8%" src="/icons/intellij-idea.svg"></code>
 <code><img width="8%" src="/icons/git.svg"></code>
 <code><img width="8%" src="/icons/figma.svg"></code>
-<code><img width="8%" src="/icons/android-studio.svg"></code>
 
 Like My Work?
 
