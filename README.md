@@ -1,4 +1,4 @@
-### Hi there! Welcome to the Min Min (mjn2max) GitHub 👋
+### Hi there! Welcome to my Huy D. (mjn2max) GitHub 👋
 
 - 🔭 I'm currently working on my project [mjn2max.com](https://mjn2max.com).
 - 🌱 I'm interested in Computer Science & Software Development.
